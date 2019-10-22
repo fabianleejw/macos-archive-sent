@@ -4,7 +4,7 @@
 
 Today I am happy to announce that macos-archive-sent is now available for all mac users all over the world. In 2011, the first Outlook for Mac was released, which featured greater compatibility and parity with Outlook for Windows than Entourage offered.
 
-Since then, mac users have been telling us they prefer an uncrippled version of outlook that comes with features like "AutoArchive". Customers can now continue to live with crippled outlook but archive mails to their local folders with this new applescript.
+Since then, mac users have been telling us they prefer an uncrippled version of Outlook that comes with features like "AutoArchive". Customers can now continue to leverage their existing crippled version of Outlook but archive mails to their local folders with this Automator application + applscript.
 
 ## Notes
 
